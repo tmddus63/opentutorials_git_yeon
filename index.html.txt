@@ -1,7 +1,7 @@
-<html>
+﻿<html>
 	<head>
 		<title>
-			Git�Ұ�
+			Git소개
 		</title>
 	</head>
 	<body>
