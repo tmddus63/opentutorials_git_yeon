@@ -23,6 +23,7 @@
 			<li>협업</li>
 			<li>sync</li>
 			<li>push.egoing</li>
+			<li>pull.seungyeon</li>
 		</ul>
 	</body>
 </html>
