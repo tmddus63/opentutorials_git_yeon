@@ -23,6 +23,7 @@
 			<li>sync</li>
 			<li>push.egoing</li>
 			<li>pull.seungyeon</li>
+			<li>conflict.seungyeon</li>
 		</ul>
 	</body>
 </html>
