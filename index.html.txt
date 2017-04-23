@@ -1,7 +1,11 @@
 <html>
-	<head></head>
+	<head>
+		<title>
+			Git¼Ò°³
+		</title>
+	</head>
 	<body>
-	    	 <header>
+	    	<header>
                   	<h1>Git</h1>
  	     	</header>
 	</body>
