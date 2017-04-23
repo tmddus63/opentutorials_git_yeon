@@ -10,8 +10,9 @@
                  	<h1>Git</h1>
  	     	</header>
 		<ul>
-			<li>GitÀÌ¶õ?</li>
-			<li>¹öÀü</li>
+			<li>Gitì†Œê°œ</li>
+			<li>ë²„ì „</li>
+			<li>ë¸ŒëŸ°ì¹˜</li>
 		</ul>
 =======
 	    	<header>
